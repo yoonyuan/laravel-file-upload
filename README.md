@@ -1,2 +1,1 @@
-Background process using load data
-Please make sure local-infile is ON
+Background process using load data, please make sure local-infile is ON
